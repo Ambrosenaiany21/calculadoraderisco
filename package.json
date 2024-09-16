@@ -1,0 +1,15 @@
+{
+  "name": "calculadora-risco-gestacional",
+  "version": "1.0.0",
+  "description": "Uma calculadora para estratificação de risco gestacional.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "Eduarda Naiany de Oliveira Macedo",
+  "license": "ISC"
+}
